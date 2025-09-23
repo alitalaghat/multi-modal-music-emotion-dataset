@@ -25,8 +25,8 @@ The dataset is designed for research in **music emotion recognition (MER)** base
 * **`deezer_song_id`** — Unique track identifier from Deezer
 * **`msd_song_id`** — Million Song Dataset (MSD) song ID
 * **`msd_track_id`** — Million Song Dataset (MSD) track ID
-* **`valence`** — Emotion annotation (positivity measure, \[0–1])
-* **`arousal`** — Emotion annotation (energy/intensity measure, \[0–1])
+* **`valence`** — Emotion annotation (positivity measure)
+* **`arousal`** — Emotion annotation (energy measure)
 * **`artist`** — Artist name
 * **`track`** — Track title
 * **`dataset_split`** — Data split indicator (e.g., train/validation/test)
