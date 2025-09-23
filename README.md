@@ -17,10 +17,6 @@ The dataset is designed for research in **music emotion recognition (MER)** base
 ---
 
 ## Dataset Details
-
-* **`MER-Dataset.csv`**
-  Contains multimodal metadata, IDs, and emotional annotations for each track.
-
 * **`spotify_id`** — Unique track identifier from Spotify
 * **`deezer_song_id`** — Unique track identifier from Deezer
 * **`msd_song_id`** — Million Song Dataset (MSD) song ID
