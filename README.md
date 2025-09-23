@@ -3,7 +3,9 @@
 This repository contains the dataset introduced in the paper:
 
 **A Multimodal Deep Network for Music Emotion Recognition using Audio Chorus and Lyrics**
+
 Mohammad Ali Talaghat, Elham Parvinnia, Mahdi Mehrabi, Reza Boostani
+
 *Published in IEEE Access*
 
 ---
